@@ -19,6 +19,9 @@ You may access the website in the following link: https://finalpresentation2.myb
 2. IBM Watson Text-To-Speech 
 3. IBM Watson Discovery
 
+## MVP Architecture and Project Structure
+![Architecture](/images/structure.png)
+
 ### IBM Cloudant API call
 ![Cloudant API call](/images/cloudantAPI.png)
 
