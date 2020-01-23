@@ -1,0 +1,11 @@
+applications:
+  - path: .
+    name: FinalPresentation2
+    environment_json: {}
+    memory: 128M
+    instances: 1
+    disk_quota: 1024M
+    services:
+      - Presentation2Db
+      - Discovery-aj
+      - Text to Speech-t1
